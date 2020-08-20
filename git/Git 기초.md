@@ -37,9 +37,14 @@ Untracked files:
 
 ```bash
 $ git add .
+# .을 붙이면 현재 디렉토리의 모든 변경사항
+$ git add a.html					# 특정 파일
+$ git add b.html $ git add c.html	# 틀정 다수 파일 
+$ git add blog						# 특정 폴더
 ```
 
 ```bash
+# 작업 후 상태
 On branch master
 
 No commits yet
