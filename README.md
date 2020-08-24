@@ -8,17 +8,17 @@
 
 > GIT 사용법에 대한 내용
 
-#### [1.Git 기초]( ./git/Git 기초.md)
+#### [1.Git 기초]( ./git/Git_basic.md)
 
-#### [2.Git 원격 저장소 활용](./git/Git 원격 저장소 활용.md)
+####  [2.Git 원격 저장소 활용](./git/Git_Remote_Repository.md)
 
 #### [3.Branch](./git/branch.md)
 
 #### [4.Gitignore](./git/gitignore.md)
 
-#### [5.원격저장소주의](./git/원격저장소주의.md)
+#### [5.원격저장소주의](./git/Remote_Repository_attention.md)
 
-#### [6.파이썬 가상환경](./git/파이썬 가상환경.md)
+#### [6.파이썬 가상환경](./git/Python_Virtual_Environments.md)
 
 
 
